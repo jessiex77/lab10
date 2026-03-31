@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@asgardeo/auth-react": "^2.0.2",
+    "@asgardeo/auth-react": "^1.1.19",
     "axios": "^1.14.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
